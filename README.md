@@ -1,2 +1,4 @@
 # AWS-train
-- Terraformフォルダ内に作成したTerraform化用のコードを格納しています．
+
+- Geminiフォルダ内にアプリをコンテナ化するためのコードを格納．
+- Terraformフォルダ内に作成したTerraform化用のコードを格納．
